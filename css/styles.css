@@ -106,6 +106,9 @@ a:hover{
 }
 .about-me{
   color: #40514E;
+  width: 40%;
+  margin: 40px auto 60px;
+  
 }
 .bottom-container{
   background-color: #66BFBF;
